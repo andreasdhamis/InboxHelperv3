@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.InboxHelper" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#F3F0E9</item>
+        <item name="android:navigationBarColor">#FBFAF6</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+    <color name="bg">#F3F0E9</color>
+    <color name="accent">#0D5F5B</color>
+</resources>
